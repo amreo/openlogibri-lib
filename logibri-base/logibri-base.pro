@@ -29,8 +29,3 @@ else:unix: LIBS += -L$$OUT_PWD/../bin/ -lopenlogibri
 INCLUDEPATH += $$PWD/../lib
 DEPENDPATH += $$PWD/../lib
 
-HEADERS += \
-    logibrilogicoperator.h
-
-SOURCES += \
-    logibrilogicoperator.cpp

@@ -26,8 +26,3 @@ unix {
     INSTALLS += target
 }
 
-HEADERS += \
-    logibri.h
-
-SOURCES += \
-    logibri.cpp

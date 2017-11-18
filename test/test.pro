@@ -22,8 +22,3 @@ else:unix: LIBS += -L$$OUT_PWD/../bin/ -lopenlogibri
 INCLUDEPATH += $$PWD/../lib
 DEPENDPATH += $$PWD/../lib
 
-SOURCES += \
-    main.cpp
-
-HEADERS += \
-    tstlogibri.h
