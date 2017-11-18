@@ -37,3 +37,10 @@ Makefile*
 # QtCtreator CMake
 CMakeLists.txt.user*
 
+#bin/build files
+bin/*
+build/*
+
+#documentation
+doc/*
+!doc/doc-extra/*
