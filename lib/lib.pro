@@ -26,3 +26,11 @@ unix {
     INSTALLS += target
 }
 
+HEADERS += \
+    iologibriinterface.h \
+    common.h
+
+SOURCES += \
+    iologibriinterface.cpp \
+    common.cpp
+
