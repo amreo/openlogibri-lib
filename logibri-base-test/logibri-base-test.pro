@@ -24,3 +24,6 @@ DEPENDPATH += $$PWD/../lib
 INCLUDEPATH += $$PWD/../logibri-base
 DEPENDPATH += $$PWD/../logibri-base
 
+SOURCES += \
+    main.cpp
+
