@@ -28,9 +28,11 @@ unix {
 
 HEADERS += \
     iologibriinterface.h \
-    common.h
+    common.h \
+    datalink.h
 
 SOURCES += \
     iologibriinterface.cpp \
-    common.cpp
+    common.cpp \
+    datalink.cpp
 
