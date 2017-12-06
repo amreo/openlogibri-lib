@@ -43,9 +43,9 @@ build/*
 logibri-base-test/test-logibri-base
 test/test
 
-
 #documentation
 doc/*
 !doc/doc-extra
 
-
+#editors file
+*~
