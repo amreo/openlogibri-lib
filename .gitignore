@@ -46,6 +46,6 @@ test/test
 
 #documentation
 doc/*
-!doc/doc-extra/*
+!doc/doc-extra
 
 

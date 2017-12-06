@@ -15,7 +15,7 @@ make install
 ```
 ### Windows operating systems
 1. Download and install QT creator
-2. Download and extrac the project
+2. Download and extract the project
 3. Open with QT creator
 4. Build with QT creator
 
