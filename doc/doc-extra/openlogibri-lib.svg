@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="41cm" height="63cm" viewBox="538 158 803 1243" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="540" y="160" width="800" height="1240"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="940" y="783.9">
+      <tspan x="940" y="783.9"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="580" y="200" width="720" height="140"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="940" y="273.9">
+      <tspan x="940" y="273.9"></tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="900" y="180">
+    <tspan x="900" y="180">Openlogibri-lib</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="940" y="270">
+    <tspan x="940" y="270"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="940" y="780">
+    <tspan x="940" y="780"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="900" y="220">
+    <tspan x="900" y="220">Logibri-libraries</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="600" y="240" width="80" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="600" y="240" width="80" height="80"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="640" y="275.9">
+      <tspan x="640" y="275.9">Logibri1</tspan>
+      <tspan x="640" y="291.9">(class)</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="700" y="240" width="80" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="700" y="240" width="80" height="80"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="740" y="275.9">
+      <tspan x="740" y="275.9">Logibri2</tspan>
+      <tspan x="740" y="291.9">(class)</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="800" y="240" width="80" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="800" y="240" width="80" height="80"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="840" y="275.9">
+      <tspan x="840" y="275.9">Logibri3</tspan>
+      <tspan x="840" y="291.9">(class)</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="900" y="240" width="80" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="900" y="240" width="80" height="80"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="940" y="275.9">
+      <tspan x="940" y="275.9">Logibri4</tspan>
+      <tspan x="940" y="291.9">(class)</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1000" y="240" width="80" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1000" y="240" width="80" height="80"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1040" y="275.9">
+      <tspan x="1040" y="275.9">Logibri5</tspan>
+      <tspan x="1040" y="291.9">(class)</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1200" y="240" width="80" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1200" y="240" width="80" height="80"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1240" y="275.9">
+      <tspan x="1240" y="275.9">LogibriN</tspan>
+      <tspan x="1240" y="291.9">(class)</tspan>
+    </text>
+  </g>
+  <text font-size="56.4444" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1094" y="281">
+    <tspan x="1094" y="281">. . .</tspan>
+  </text>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="740" y="480" width="560" height="300"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1020" y="633.9">
+      <tspan x="1020" y="633.9"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="740" y="380" width="560" height="58"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="740" y="380" width="560" height="58"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1020" y="412.9">
+      <tspan x="1020" y="412.9">Software-loader</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="580" y="480" width="120" height="300"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="580" y="480" width="120" height="300"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="640" y="625.9">
+      <tspan x="640" y="625.9">Software</tspan>
+      <tspan x="640" y="641.9">runner</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="640,479.015 640,360 940,360 940,350.4 "/>
+    <polygon style="fill: #000000" points="940,342.9 945,352.9 940,350.4 935,352.9 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="940,342.9 945,352.9 940,350.4 935,352.9 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1020,378.993 1020,360.001 940,360.001 940,350.745 "/>
+    <polygon style="fill: #000000" points="940,343.245 945,353.245 940,350.745 935,353.245 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="940,343.245 945,353.245 940,350.745 935,353.245 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1020" y1="439.006" x2="1020" y2="469.264"/>
+    <polygon style="fill: #000000" points="1020,476.764 1015,466.764 1020,469.264 1025,466.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1020,476.764 1015,466.764 1020,469.264 1025,466.764 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="991" y="500">
+    <tspan x="991" y="500">Software</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="880" y="520" width="84.55" height="120"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="880" y="520" width="84.55" height="120"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="922.275" y="583.9">
+      <tspan x="922.275" y="583.9">Function1</tspan>
+    </text>
+  </g>
+  <text font-size="56.4444" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1086" y="583">
+    <tspan x="1086" y="583">. . .</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="1194" y="520" width="86" height="120"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1194" y="520" width="86" height="120"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1237" y="583.9">
+      <tspan x="1237" y="583.9">FunctionN</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="980" y="520" width="84.55" height="120"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="980" y="520" width="84.55" height="120"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1022.27" y="583.9">
+      <tspan x="1022.27" y="583.9">Function2</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="880" y="660" width="80.75" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="880" y="660" width="80.75" height="100"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="920.375" y="705.9">
+      <tspan x="920.375" y="705.9">Resource</tspan>
+      <tspan x="920.375" y="721.9">1</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="980" y="660" width="80.75" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="980" y="660" width="80.75" height="100"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1020.38" y="705.9">
+      <tspan x="1020.38" y="705.9">Resource</tspan>
+      <tspan x="1020.38" y="721.9">2</tspan>
+    </text>
+  </g>
+  <text font-size="56.4444" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1087" y="714">
+    <tspan x="1087" y="714">. . .</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="1200" y="660" width="80.75" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1200" y="660" width="80.75" height="100"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1240.38" y="705.9">
+      <tspan x="1240.38" y="705.9">Resource</tspan>
+      <tspan x="1240.38" y="721.9">N</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="701.004" y1="630" x2="729.3" y2="630"/>
+    <polygon style="fill: #000000" points="736.8,630 726.8,635 729.3,630 726.8,625 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="736.8,630 726.8,635 729.3,630 726.8,625 "/>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="580" y="820" width="720" height="540"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="940" y="1093.9">
+      <tspan x="940" y="1093.9"></tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="920" y="840">
+    <tspan x="920" y="840">Function</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="600" y="860" width="120" height="480"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="600" y="860" width="120" height="480"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="660" y="1103.9">
+      <tspan x="660" y="1103.9">I/O definition</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="740" y="860" width="540" height="480"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1010" y="1103.9">
+      <tspan x="1010" y="1103.9"></tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1010" y="1100">
+    <tspan x="1010" y="1100"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="960" y="880">
+    <tspan x="960" y="880">Logibris-container</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="760" y="520" width="100" height="240"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="520" width="100" height="240"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="810" y="643.9">
+      <tspan x="810" y="643.9">Data</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="760" y="900" width="80" height="160"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="900" width="80" height="160"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="800" y="983.9">
+      <tspan x="800" y="983.9">Logibri1</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="760" y="900" width="80" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="900" width="80" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="800" y="922.9">
+      <tspan x="800" y="922.9">I</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="760" y="1020" width="80" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="1020" width="80" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="800" y="1043.9">
+      <tspan x="800" y="1043.9">O</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="860" y="900" width="80" height="160"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="860" y="900" width="80" height="160"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="900" y="983.9">
+      <tspan x="900" y="983.9">Logibri2</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="860" y="900" width="80" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="860" y="900" width="80" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="900" y="922.9">
+      <tspan x="900" y="922.9">I</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="860" y="1020" width="80" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="860" y="1020" width="80" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="900" y="1043.9">
+      <tspan x="900" y="1043.9">O</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1180" y="900" width="80" height="160"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1180" y="900" width="80" height="160"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1220" y="983.9">
+      <tspan x="1220" y="983.9">LogibriN</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1180" y="900" width="80" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1180" y="900" width="80" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1220" y="922.9">
+      <tspan x="1220" y="922.9">I</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1180" y="1020" width="80" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1180" y="1020" width="80" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1220" y="1043.9">
+      <tspan x="1220" y="1043.9">O</tspan>
+    </text>
+  </g>
+  <text font-size="56.4444" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1066" y="980">
+    <tspan x="1066" y="980">. . .</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="960" y="900" width="80" height="160"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="960" y="900" width="80" height="160"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1000" y="983.9">
+      <tspan x="1000" y="983.9">Logibri3</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="960" y="900" width="80" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="960" y="900" width="80" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1000" y="922.9">
+      <tspan x="1000" y="922.9">I</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="960" y="1020" width="80" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="960" y="1020" width="80" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1000" y="1043.9">
+      <tspan x="1000" y="1043.9">O</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="760" y="1100" width="100" height="160"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="1100" width="100" height="160"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="810" y="1175.9">
+      <tspan x="810" y="1175.9">Container</tspan>
+      <tspan x="810" y="1191.9">1</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="760" y="1100" width="100" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="1100" width="100" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="810" y="1122.9">
+      <tspan x="810" y="1122.9">I</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="760" y="1220" width="100" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="1220" width="100" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="810" y="1243.9">
+      <tspan x="810" y="1243.9">O</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="880" y="1100" width="100" height="160"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="880" y="1100" width="100" height="160"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="930" y="1175.9">
+      <tspan x="930" y="1175.9">Container</tspan>
+      <tspan x="930" y="1191.9">2</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="880" y="1100" width="100" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="880" y="1100" width="100" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="930" y="1122.9">
+      <tspan x="930" y="1122.9">I</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="880" y="1220" width="100" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="880" y="1220" width="100" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="930" y="1243.9">
+      <tspan x="930" y="1243.9">O</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1000" y="1100" width="100" height="160"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1000" y="1100" width="100" height="160"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1050" y="1175.9">
+      <tspan x="1050" y="1175.9">Container</tspan>
+      <tspan x="1050" y="1191.9">3</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1000" y="1100" width="100" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1000" y="1100" width="100" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1050" y="1122.9">
+      <tspan x="1050" y="1122.9">I</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1000" y="1220" width="100" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1000" y="1220" width="100" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1050" y="1243.9">
+      <tspan x="1050" y="1243.9">O</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1160" y="1100" width="100" height="160"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1160" y="1100" width="100" height="160"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1210" y="1175.9">
+      <tspan x="1210" y="1175.9">Container</tspan>
+      <tspan x="1210" y="1191.9"> N</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1160" y="1100" width="100" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1160" y="1100" width="100" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1210" y="1122.9">
+      <tspan x="1210" y="1122.9">I</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1160" y="1220" width="100" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1160" y="1220" width="100" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1210" y="1243.9">
+      <tspan x="1210" y="1243.9">O</tspan>
+    </text>
+  </g>
+  <text font-size="56.4444" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1100" y="1180">
+    <tspan x="1100" y="1180">...</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="760" y="1280" width="140" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="1280" width="140" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="830" y="1302.9">
+      <tspan x="830" y="1302.9">Arco1</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="758.1" y="1280" width="41.9" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="758.1" y="1280" width="41.9" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="779.05" y="1302.9">
+      <tspan x="779.05" y="1302.9">I</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="860" y="1280" width="40" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="860" y="1280" width="40" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="880" y="1302.9">
+      <tspan x="880" y="1302.9">O</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="920" y="1280" width="140" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="920" y="1280" width="140" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="990" y="1302.9">
+      <tspan x="990" y="1302.9">Arco2</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="918.1" y="1280" width="41.9" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="918.1" y="1280" width="41.9" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="939.05" y="1302.9">
+      <tspan x="939.05" y="1302.9">I</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1020" y="1280" width="40" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1020" y="1280" width="40" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1040" y="1302.9">
+      <tspan x="1040" y="1302.9">O</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1120" y="1280" width="140" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1120" y="1280" width="140" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1190" y="1302.9">
+      <tspan x="1190" y="1302.9">ArcoN</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1118.1" y="1280" width="41.9" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1118.1" y="1280" width="41.9" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1139.05" y="1302.9">
+      <tspan x="1139.05" y="1302.9">I</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1220" y="1280" width="40" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1220" y="1280" width="40" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1240" y="1302.9">
+      <tspan x="1240" y="1302.9">O</tspan>
+    </text>
+  </g>
+  <text font-size="56.4444" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1060" y="1299">
+    <tspan x="1060" y="1299">...</tspan>
+  </text>
+</svg>
