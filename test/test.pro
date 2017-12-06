@@ -26,5 +26,6 @@ SOURCES += \
     main.cpp
 
 HEADERS += \
-    tstiologibriinterface.h
+    tstiologibriinterface.h \
+    tstdatalink.h
 

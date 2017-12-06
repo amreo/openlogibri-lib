@@ -10,18 +10,17 @@ class DataLink : public QObject
     Q_OBJECT
 public:
     explicit DataLink(QObject *parent = nullptr);
-    IOLogibriInterface(const char* dataType, int dataLength, QObject *parent = nullptr);
 
     const char *getDataType() const;
     int getDataLength() const;
     void *getPushingData() const;
 
-
-
-private:
-    char const* dataType;
-    int dataLength;
-    void* pushingData;
+    void linkInput(IOLogibriInterface* ioli);
+    void linkOutput(IOLogibriInterface* ioli);
+    void removeInputIOLI();
+    void removeOutputIOLI(IOLogibriInterface* ioli);
+    IOLogibriInterface* getInputLogibriInterface();
+    QList<IOLogibriInterface* > getOutputLogibriInterfaces();
 
 private:
     IOLogibriInterface* input;

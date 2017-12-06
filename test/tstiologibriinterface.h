@@ -43,6 +43,4 @@ private slots:
 
 };
 
-
-
 #endif // TSTIOLOGIBRIINTERFACE_H
