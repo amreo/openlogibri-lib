@@ -70,6 +70,15 @@ private slots:
         QCOMPARE(link.getPushingData(), data);
         QCOMPARE(*(int*)link.getPushingData(), 10);
     }
+
+    void tstGetNullDataInfo()
+    {
+        DataLink link;
+
+        QCOMPARE(link.getDataLength(), 0);
+        QCOMPARE(link.getDataType(), nullptr);
+        QCOMPARE(link.getPushingData(), nullptr);
+    }
 };
 
 
