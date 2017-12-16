@@ -3,17 +3,17 @@
 
 #include <QObject>
 #include <QList>
-#include "iologibriinterface.h"
+#include "outputlogibriinterface.h"
 
 /**
- * @brief The DataLink class is a class that manage a one-way connection from a input ioli to multiple output iolis
+ * @brief The DataLink class is a class that manage a one-way connection from a OutputLogibriInterface to multiple InputLogibriInterface
  */
 class DataLink : public QObject
 {
     Q_OBJECT
 public:
     /**
-     * @brief Create a new DataLink with no input and output ioli
+     * @brief Create a new DataLink without a input and output connection
      */
     explicit DataLink(QObject *parent = nullptr);
 
@@ -28,50 +28,44 @@ public:
      */
     int getDataLength() const;
     /**
-     * @brief Return the data on the link that are being pushed by the input ioli
-     * @return The data being pushed by the input ioli
+     * @brief Return the data on the link that are being pushed by the input OutputLogibriInterface
+     * @return The data being pushed by the input OutputLogibriInterface
      */
     void *getPushingData() const;
 
     /**
-     * @brief Connect a output ioli to the input of the datalink
-     * @param ioli to be connected to the datalink
+     * @brief Connect a output OutputLogbiriInterface to the input of the datalink
+     * @param oli to be connected to the datalink
      */
-    void linkInput(IOLogibriInterface* ioli);
+    void linkInput(OutputLogibriInterface* oli);
     /**
-     * @brief Connect a input ioli to the output of the datalink
-     * @param ioli to be connected to the datalink
+     * @brief Connect a input InputLogibriInterface to the output of the datalink
+     * @param ili to be connected to the datalink
      */
-    void linkOutput(IOLogibriInterface* ioli);
+    void linkOutput(InputLogibriInterface* ili);
     /**
-     * @brief Remove the connection between the output ioli and the input of the datalink
-     * @param ioli to be disconnected from the datalink
+     * @brief Remove the connection between the output InputLogibriInterface and the input of the datalink
      */
-    void removeInputIOLI();
+    void removeInputOLI();
     /**
-     * @brief Remove the connection between the input ioli and the output of the datalink
-     * @param ioli to be disconnected from the datalink
+     * @brief Remove the connection between the InputLogibriInterface and the output of the datalink
+     * @param ili to be disconnected from the datalink
      */
-    void removeOutputIOLI(IOLogibriInterface* ioli);
+    void removeOutputILI(InputLogibriInterface* ili);
     /**
-     * @brief Return a pointer to the ioli connected to the input of the datalink
-     * @return A pointer to the ioli connected to the input of the datalink
+     * @brief Return a pointer to the OutputLogibriInterface connected to the input of the datalink
+     * @return A pointer to the oli connected to the input of the datalink
      */
-    IOLogibriInterface* getInputLogibriInterface();
+    OutputLogibriInterface* getInputLogibriInterface();
     /**
-     * @brief Return the list of the ioli's pointer connected to the output of the datalink
-     * @return The list of the ioli's pointer connected to the output of the datalink
+     * @brief Return the list of the InputLogibriInterface's pointers connected to the output of the datalink
+     * @return The list of the ili's pointer connected to the output of the datalink
      */
-    QList<IOLogibriInterface* > getOutputLogibriInterfaces();
+    QList<InputLogibriInterface* > getOutputLogibriInterfaces();
 
 private:
-    IOLogibriInterface* input;
-    QList<IOLogibriInterface*> outputs;
-
-signals:
-
-public slots:
-
+    OutputLogibriInterface* input;
+    QList<InputLogibriInterface*> outputs;
 };
 
 #endif // DATALINK_H

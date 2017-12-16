@@ -4,7 +4,8 @@
 #include <QObject>
 #include <QTest>
 #include "datalink.h"
-#include "iologibriinterface.h"
+#include "inputlogibriinterface.h"
+#include "common.h"
 class TstDataLink : public QObject {
     Q_OBJECT
 
@@ -20,7 +21,9 @@ private slots:
     void tstLinkInputInterface()
     {
         DataLink link;
-        IOLogibriInterface* in = new IOLogibriInterface(INT_DATA_TYPE,4);
+        OutputLogibriInterface* in = new OutputLogibriInterface(INT_DATA_TYPE);
+        in->setDataLength(4);
+
         link.linkInput(in);
 
         QCOMPARE(link.getInputLogibriInterface(), in);
@@ -29,7 +32,7 @@ private slots:
     void tstLinkoutputInterface()
     {
         DataLink link;
-        IOLogibriInterface* out = new IOLogibriInterface(INT_DATA_TYPE,4);
+        InputLogibriInterface* out = new InputLogibriInterface();
         link.linkOutput(out);
 
         QCOMPARE(link.getInputLogibriInterface(), nullptr);
@@ -40,18 +43,18 @@ private slots:
     void tstRemoveLinkInputInterface()
     {
         DataLink link;
-        IOLogibriInterface* in = new IOLogibriInterface(INT_DATA_TYPE,4);
+        OutputLogibriInterface* in = new OutputLogibriInterface(INT_DATA_TYPE);
         link.linkInput(in);
-        link.removeInputIOLI();
+        link.removeInputOLI();
         QCOMPARE(link.getInputLogibriInterface(), nullptr);
         QCOMPARE(link.getOutputLogibriInterfaces().length(), 0);
     }
     void tstRemoveLinkoutputInterface()
     {
         DataLink link;
-        IOLogibriInterface* out = new IOLogibriInterface(INT_DATA_TYPE,4);
+        InputLogibriInterface* out = new InputLogibriInterface();
         link.linkOutput(out);
-        link.removeOutputIOLI(out);
+        link.removeOutputILI(out);
         QCOMPARE(link.getInputLogibriInterface(), nullptr);
         QCOMPARE(link.getOutputLogibriInterfaces().count(), 0);
     }
@@ -59,7 +62,8 @@ private slots:
     void tstGetDataInfo()
     {
         DataLink link;
-        IOLogibriInterface* in = new IOLogibriInterface(INT_DATA_TYPE,4);
+        OutputLogibriInterface* in = new OutputLogibriInterface(INT_DATA_TYPE);
+        in->setDataLength(4);
         int* data = new int();
         *data = 10;
         in->setPushingData(data);

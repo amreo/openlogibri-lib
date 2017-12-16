@@ -27,12 +27,14 @@ unix {
 }
 
 HEADERS += \
-    iologibriinterface.h \
     common.h \
-    datalink.h
+    datalink.h \
+    inputlogibriinterface.h \
+    outputlogibriinterface.h
 
 SOURCES += \
-    iologibriinterface.cpp \
     common.cpp \
-    datalink.cpp
+    datalink.cpp \
+    inputlogibriinterface.cpp \
+    outputlogibriinterface.cpp
 
