@@ -5,7 +5,7 @@
 #include <QtTest/QTest>
 #include "common.h"
 /**
- * @brief The IOLogibriInterface class is a object that manage a Logibri Data interface. It can be used as a input as a output interface.
+ * @brief The IOLogibriInterface ia a class that manage a logibri data interface. It can be used as a input as a output interface.
  * @authors amreo.
  */
 class IOLogibriInterface : public QObject
