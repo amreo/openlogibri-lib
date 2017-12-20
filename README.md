@@ -28,6 +28,6 @@ cd test
 ```
 ## Status of the project
 The project is in the earlier stage and it's ready for production. It cannot also be used for building the softwares yet. 
-Currently the lib has only the class for managing a data interface (IOLogibriInterface) and a connection between them (DataLink).
+Currently the lib is incomplete and has only a little part of the entire project.
 I need help writing code, and documenting the lib.
 
