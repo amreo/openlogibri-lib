@@ -31,7 +31,8 @@ HEADERS += \
     datalink.h \
     inputlogibriinterface.h \
     outputlogibriinterface.h \
-    logibri.h
+    logibri.h \
+    logibrilibraryinfo.h
 
 SOURCES += \
     common.cpp \
