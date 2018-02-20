@@ -30,11 +30,13 @@ HEADERS += \
     common.h \
     datalink.h \
     inputlogibriinterface.h \
-    outputlogibriinterface.h
+    outputlogibriinterface.h \
+    logibri.h
 
 SOURCES += \
     common.cpp \
     datalink.cpp \
     inputlogibriinterface.cpp \
-    outputlogibriinterface.cpp
+    outputlogibriinterface.cpp \
+    logibri.cpp
 

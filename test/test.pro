@@ -23,9 +23,12 @@ INCLUDEPATH += $$PWD/../lib
 DEPENDPATH += $$PWD/../lib
 
 SOURCES += \
-    main.cpp
+    main.cpp \
+    simplesumlogibri.cpp
 
 HEADERS += \
     tstiologibriinterface.h \
-    tstdatalink.h
+    tstdatalink.h \
+    simplesumlogibri.h \
+    tstlogibri.h
 
