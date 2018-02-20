@@ -89,3 +89,8 @@ int SimpleSumLogibri::run(int debugLevel)
 
     return 0;
 }
+
+QString SimpleSumLogibri::getClassName() const
+{
+    return "org.example.simplelibrary.simplesum";
+}

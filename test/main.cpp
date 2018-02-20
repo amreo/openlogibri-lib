@@ -2,6 +2,7 @@
 #include "tstiologibriinterface.h"
 #include "tstdatalink.h"
 #include "tstlogibri.h"
+#include "tstlogibrilibrary.h"
 int main(int argc, char* argv[])
 {
     int status = 0;
@@ -17,6 +18,9 @@ int main(int argc, char* argv[])
         TstLogibri tst;
         status |= QTest::qExec(&tst, argc, argv);
     }
-
+    {
+        TstLogibriLibrary tst;
+        status |= QTest::qExec(&tst, argc, argv);
+    }
     return status;
 }

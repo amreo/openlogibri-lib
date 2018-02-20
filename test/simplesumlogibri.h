@@ -15,6 +15,10 @@ public:
 
 public slots:
     int run(int debugLevel);
+
+    // Logibri interface
+public:
+    QString getClassName() const;
 };
 
 #endif // SIMPLESUMLOGIBRI_H

@@ -30,5 +30,7 @@ HEADERS += \
     tstiologibriinterface.h \
     tstdatalink.h \
     simplesumlogibri.h \
-    tstlogibri.h
+    tstlogibri.h \
+    simplelibraryinfoloader.h \
+    tstlogibrilibrary.h
 
