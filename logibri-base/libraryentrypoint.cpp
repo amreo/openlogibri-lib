@@ -1,6 +1,6 @@
 #include "logibrilibraryinfo.h"
 
-extern "C" LibraryInfo* getLibraryInfo() {
+EXPORT_ENTRY_POINT LibraryInfo* getLibraryInfo() {
     //STUB
     LibraryInfo* info = new LibraryInfo();
     info->name = "loc.logibri.logibri-base";

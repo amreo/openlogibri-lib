@@ -18,4 +18,10 @@ struct LibraryInfo {
 
 typedef LibraryInfo* (LibraryInfoLoader)();
 
+#ifdef Q_OS_WIN
+#define EXPORT_ENTRY_POINT __declspec(dllexport)
+#else
+#define EXPORT_ENTRY_POINT extern "C"
+#endif
+
 #endif // LOGIBRILIBRARYINFO_H
