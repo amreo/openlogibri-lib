@@ -50,6 +50,12 @@ public:
      */
     virtual void unlinkOutput(QString outputInterfaceName);
 
+    /**
+     * @brief Return the name of this class
+     * @return The name of this class
+     */
+    virtual QString getClassName() const = 0;
+
 public slots:
     /**
      * @brief Execute the logibri

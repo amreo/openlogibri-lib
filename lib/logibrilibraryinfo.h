@@ -6,7 +6,7 @@ typedef Logibri* (LogibryFactory)();
 
 struct LogibriInfo {
     QString name;
-    LogibryFactory factory;
+    LogibryFactory* factory;
 };
 
 struct LibraryInfo {

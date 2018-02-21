@@ -29,3 +29,9 @@ else:unix: LIBS += -L$$OUT_PWD/../bin/ -lopenlogibri
 INCLUDEPATH += $$PWD/../lib
 DEPENDPATH += $$PWD/../lib
 
+HEADERS += \
+    common.h
+
+SOURCES += \
+    libraryentrypoint.cpp
+
